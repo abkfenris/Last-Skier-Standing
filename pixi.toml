@@ -12,7 +12,7 @@ edit = "marimo edit"
 [dependencies]
 marimo = ">=0.11.2,<0.12"
 pandas = ">=2.2.3,<3"
-altair = ">=5.5.0,<6"
+altair = ">=6.2.2,<7"
 lxml = ">=5.3.1,<6"
 html5lib = ">=1.1,<2"
 beautifulsoup4 = ">=4.13.3,<5"
